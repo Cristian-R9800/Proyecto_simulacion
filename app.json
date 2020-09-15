@@ -1,0 +1,12 @@
+{
+  "name": "simulacionJuego",
+  "displayName": "simulacionJuego",
+  "expo": {
+    "name": "simulacionJuego",
+    "slug": "simulacionJuego",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
